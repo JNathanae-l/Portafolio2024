@@ -629,9 +629,10 @@ function Portfolio() {
           </div>
         </div>
       </section>
-      <footer id='contact' className="absolute w-full h-36 bottom-0 p-8 px-16 bg-gray-800 text-gray-50">
-        <p className="text-2xl">Gracias por revisar mi portafolio.(Potenciado con React y Tailwind.)</p>
+      <footer id='contact' className="absolute w-full h-56 bottom-0 p-8 px-14 bg-gray-800 text-gray-50">
+        <p className="text-xl md:text-2xl  font-bold">Gracias por revisar mi portafolio.(Potenciado con React y Tailwind.)</p>
         <a className="text-lg" href="mailto:natha_ml@icloud.com">natha_ml@icloud.com</a>
+        <br/>
       </footer>
       <div className="h-80">
       </div>
