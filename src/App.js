@@ -178,18 +178,18 @@ function Portfolio() {
             <h3 className="text-xl font-bold">Sobre mi</h3>
             {/* <h3 className="text-xl font-bold">Summary</h3> */}
             <br />
-            <p className="w-full md:w-2/3">Soy un entusiasta de la especialidad en Comunicaciones Digitales con una sólida
-              formación académica en Ingeniería de Sistemas Computacionales.Mi carrera profesional se destaca por la habilidad
-              de fusionar la creatividad y el conocimiento técnico para transmitir conceptos tecnológicos de manera eficiente.
-              Mis destrezas en producción de contenido y mi profundo entendimiento en sistemas computacionales me facilitan
-              convertir temas intrincados en mensajes claros y atractivos para públicos diversos.</p>
+            <p className="w-full md:w-2/3">Desarrollador de software e ingeniero en sistemas computacionales con amplia experiencia
+             en diseño UX/UI y desarrollo web. Experto en una variedad de lenguajes de programación y plataformas tecnológicas 
+             con un enfoque en soluciones de big data, aplicaciones móviles y sistemas computacionales. Proficientemente 
+             equipado con habilidades avanzadas en Python, Java, C#/.NET, y una diversidad de 
+             herramientas de diseño y desarrollo como Figma y Laravel/PHP.</p>
           </div>
           <div className="px-10 md:px-20">
             <br />
             {/* <h3 className="text-xl font-bold">Contact</h3> */}
             <h3 id='contact' className="text-xl font-bold">Contacto</h3>
             <a className="text-xl hover:text-blue-600" href="mailto:natha_ml@icloud.com">natha_ml@icloud.com</a>
-            <p> &#127474;&#127485; +52 55 6164 3539</p>
+            {/* <p> &#127474;&#127485; +52 55 6164 3539</p> */}
           </div>
           <div className="px-10 md:px-20">
             <br />
